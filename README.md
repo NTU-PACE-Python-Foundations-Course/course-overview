@@ -1,7 +1,6 @@
 # Python Fundamentals
 
 > A bridging course for the Applied Data Science certification
-> NTU Academy for Professional and Continuing Education
 
 Six units covering the Level 2 Python proficiency required to enter the Applied Data Science certification programme. Delivered via Jupyter notebooks in GitHub Codespaces.
 
