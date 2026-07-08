@@ -6,8 +6,13 @@ Six units covering the Level 2 Python proficiency required to enter the Applied 
 
 ## New here? Start with the Getting Started guide
 
-[**GETTING_STARTED.md**](GETTING_STARTED.md) walks you through opening a unit
-in GitHub Codespaces, using Jupyter notebooks, doing the exercises, checking
+Each unit repo below is a **template**. Click **"Use this template"** on a
+unit's page to create your own private copy — that's where you'll actually
+do the work.
+
+[**GETTING_STARTED.md**](GETTING_STARTED.md) walks you through using the
+template, setting up your private repo and the grading bot, opening it in
+GitHub Codespaces, using Jupyter notebooks, doing the exercises, checking
 your work with the autograder, and saving your progress — even if you've
 never used any of these tools before.
 
@@ -22,5 +27,6 @@ never used any of these tools before.
 | 5 | [Robust Code — Errors & Files](https://github.com/python-fundamentals-course/unit-5-errors-and-files) | try/except patterns, reading and writing CSV files, and the monthly P&L worked example. |
 | 6 | [Version Control & Professional Practices](https://github.com/python-fundamentals-course/unit-6-version-control) | Git fundamentals, PEP 8, and using the skills from Units 1-5 together. |
 
-Each unit repo also includes its own copy of `GETTING_STARTED.md` and a
-`README.md` with that unit's learning objectives.
+Each unit repo also includes its own copy of `GETTING_STARTED.md`,
+`PRIVATE_REPO_SETUP.md`, and a `README.md` with that unit's learning
+objectives.
